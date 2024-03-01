@@ -4,3 +4,8 @@
   background-color: 00FFFFFF;
   z-index: 1;
 }
+.location{
+  position: absolute;
+  top: 3.8%;
+  left: 84%;
+}
